@@ -1,0 +1,40 @@
+# Python Environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.dist/
+
+# PyTorch/TensorFlow specific
+*.pt
+*.pth
+*.h5
+*.hdf5
+keras/
+*.pb
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+env/
+ENV/
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Project specific outputs
+exports/
+data/output/
