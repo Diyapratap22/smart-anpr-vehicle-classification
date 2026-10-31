@@ -20,6 +20,7 @@ class YOLOVehicleDetector:
         5: 'Bus',
         7: 'Bus',
         8: 'Bus',
+        11: 'Motorcycle',
         39: 'Car',  # taxi (treated as car)
         40: 'Truck',
         41: 'Truck',
